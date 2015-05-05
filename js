@@ -22,6 +22,9 @@ var lib = {
     }
     return $ul;
   },
+  itemsJson: function(){
+    return JSON.stringify(this.items, null, "\t");
+  },
   
   items: {
     'user': {},
