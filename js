@@ -38,7 +38,7 @@ var lib = {
       name: '',
       txt: '',
       dataT: '',
-      notes: '',
+      notes: 'св',
       val: ''
     },
   }
