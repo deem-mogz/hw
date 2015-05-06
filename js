@@ -39,7 +39,7 @@ var lib = {
       txt: 'Свойство',
       dataT: 'string',
       notes: '',
-      val: ''
+      val: null
     },
   }
 };
