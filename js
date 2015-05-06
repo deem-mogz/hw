@@ -33,13 +33,6 @@ var lib = {
     html: {
       win: '',
     },
-    prop: {
-      id: 0,
-      name_: '',
-      txt: 'свойство'
-      dataType_: 'string',
-      val_: ' ',
-      
-    },
+    prop: {},
   }
 };
