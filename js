@@ -35,10 +35,10 @@ var lib = {
     },
     prop: {
       id: 0,
-      name: '',
+      name_: '',
       txt: 'свойство'
-      dataType: 'string',
-      val: '',
+      dataType_: 'string',
+      val_: ' ',
       
     },
   }
