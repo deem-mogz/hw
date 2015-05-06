@@ -36,9 +36,9 @@ var lib = {
     prop: {
       id: 0,
       name: '',
-      txt: '',
-      dataT: '',
-      notes: 'св',
+      txt: 'Свойство',
+      dataT: 'string',
+      notes: '',
       val: ''
     },
   }
