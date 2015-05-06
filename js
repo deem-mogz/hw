@@ -35,6 +35,11 @@ var lib = {
     },
     prop: {
       id: 0,
+      name: '',
+      txt: '',
+      dataT: '',
+      notes: '',
+      val: ''
     },
   }
 };
