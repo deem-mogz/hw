@@ -33,6 +33,8 @@ var lib = {
     html: {
       win: '',
     },
-    prop: {},
+    prop: {
+      id: 0,
+    },
   }
 };
