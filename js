@@ -38,7 +38,7 @@ var lib = {
       name: '',
       txt: 'свойство'
       dataType: 'string',
-      val: null,
+      val: '',
       
     },
   }
