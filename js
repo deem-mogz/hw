@@ -23,7 +23,7 @@ var lib = {
     return $ul;
   },
   itemsJson: function(){
-    return JSON.stringify(this.items, null, "\t");
+    return JSON.stringify(this.items, null, 2);
   },
   
   items: {
@@ -32,6 +32,14 @@ var lib = {
     'userGroup': {},
     html: {
       win: '',
+    },
+    prop: {
+      id: 0,
+      name: '',
+      txt: 'свойство'
+      dataType: 'string',
+      val: null,
+      
     },
   }
 };
